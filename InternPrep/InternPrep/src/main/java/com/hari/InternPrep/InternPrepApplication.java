@@ -11,4 +11,3 @@ public class InternPrepApplication {
 	}
 
 }
-git chackout
